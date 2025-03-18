@@ -1,68 +1,108 @@
 <div align="center">
-  <h1>👨‍💻 Farsito</h1>
-  <p><i>Desarrollador y Pentester | 17 años</i></p>
   
-  <!-- Sin botones de redes sociales para mayor privacidad -->
+  <!-- Título con efecto glitch -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=500&height=70&lines=FARSITO;PENTESTER+%7C+DEV" alt="Typing SVG" />
+  
+  <!-- Banner futurista -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00F7FF&height=200&section=header&text=CYBERSECURITY%20SPECIALIST&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=CODING%20SINCE%2015%20|%20PENTESTING%20EXPERT&descAlignY=50&descSize=15" />
+  
+  <!-- Insignia de edad -->
+  <img src="https://img.shields.io/badge/AGE-17-00F7FF?style=for-the-badge&labelColor=001F3F" />
+  <!-- Insignia OSCP -->
+  <img src="https://img.shields.io/badge/GOAL-OSCP_at_18-FF007F?style=for-the-badge&labelColor=001F3F" />
+  
 </div>
 
----
+<!-- Separador futurista -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Sobre mí
-
-Apasionado por la ciberseguridad y el desarrollo con 2 años de experiencia en pentesting. Desde los 15 años exploro el mundo de la seguridad informática, combinando mis conocimientos en explotación de sistemas con desarrollo frontend y backend.
-
-**Meta:** Obtener la certificación OSCP entre los 18-19 años.
-
-## 🛠️ Habilidades
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> HABILIDADES
 
 <div align="center">
-  
-  ### Ciberseguridad
-  ![Pentesting](https://img.shields.io/badge/Pentesting-black?style=for-the-badge)
-  ![Análisis de Vulnerabilidades](https://img.shields.io/badge/Análisis_de_Vulnerabilidades-red?style=for-the-badge)
-  ![Explotación](https://img.shields.io/badge/Explotación-darkred?style=for-the-badge)
-  
-  ### Frontend
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  
-  ### Backend
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  
-  ### Bases de Datos
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  <!-- Panel de habilidades con efecto neón -->
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🔐 CIBERSEGURIDAD</h3>
+        <img width="100%" src="https://skillicons.dev/icons?i=linux,bash&theme=dark" /><br>
+        <img src="https://img.shields.io/badge/PENTESTING-00F7FF?style=for-the-badge&labelColor=001F3F" />
+        <img src="https://img.shields.io/badge/EXPLOTACIÓN-00F7FF?style=for-the-badge&labelColor=001F3F" />
+        <img src="https://img.shields.io/badge/ANÁLISIS_DE_VULNERABILIDADES-00F7FF?style=for-the-badge&labelColor=001F3F" />
+      </td>
+      <td align="center" width="50%">
+        <h3>⚡ DESARROLLO</h3>
+        <img width="100%" src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,php,mysql,mongodb&theme=dark" /><br>
+        <img src="https://img.shields.io/badge/FRONTEND-FF007F?style=for-the-badge&labelColor=001F3F" />
+        <img src="https://img.shields.io/badge/BACKEND-FF007F?style=for-the-badge&labelColor=001F3F" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 💻 Proyectos
+<!-- Separador futurista -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> PROYECTOS
 
 <div align="center">
-  <!-- Proyectos sin enlaces específicos para mayor privacidad -->
-  <p>Trabajando en herramientas de análisis de seguridad y plataformas de práctica para habilidades de pentesting</p>
-</div>
-
-## 📊 Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farsitooo&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farsitooo&theme=radical" alt="GitHub Streak" />
-</div>
-
-## 🔮 Aprendizaje Continuo
-
-- 🔒 Seguridad en infraestructuras cloud
-- 📱 Desarrollo de aplicaciones móviles seguras
-- 🔍 Técnicas avanzadas de explotación
-- 🎯 Preparación para OSCP
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=farsitooo&color=blueviolet&style=for-the-badge" alt="Visitas al perfil" />
+  <!-- Efecto interactivo de paneles -->
+  <div>
+    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Security%20Tools&width=800&height=100" alt="Security Tools Banner"/>
+  </div>
   
-  > "La seguridad no es un producto, es un proceso." - Bruce Schneier
+  <div>
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Web%20Development&width=800&height=100" alt="Web Development Banner"/>
+  </div>
+  
+  <div>
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Pentesting%20Projects&width=800&height=100" alt="Pentesting Projects Banner"/>
+  </div>
+</div>
+
+<!-- Separador futurista -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> ESTADÍSTICAS
+
+<div align="center">
+  <!-- Tarjetas de estadísticas con tema ciberpunk -->
+  <img src="https://github-readme-stats.vercel.app/api?username=farsitooo&show_icons=true&bg_color=001F3F&title_color=00F7FF&icon_color=FF007F&text_color=FFFFFF&border_color=00F7FF&hide_border=false&border_radius=10" width="49%" alt="GitHub Stats" />
+  
+  <img src="https://streak-stats.demolab.com?user=farsitooo&background=001F3F&ring=00F7FF&fire=FF007F&currStreakNum=FFFFFF&currStreakLabel=00F7FF&sideNums=FFFFFF&sideLabels=00F7FF&dates=FFFFFF&border=00F7FF&border_radius=10" width="49%" alt="GitHub Streak" />
+  
+  <!-- Gráfico de actividad -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farsitooo&bg_color=001F3F&color=00F7FF&line=FF007F&point=FFFFFF&area=true&area_color=FF007F&hide_border=false&border_color=00F7FF&custom_title=CONTRIBUCIONES" width="98%" />
+</div>
+
+<!-- Separador futurista -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac32e-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> OBJETIVOS
+
+<div align="center">
+  <!-- Objetivos con iconos futuristas -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/OSCP-FF007F?style=for-the-badge&labelColor=001F3F" /><br>
+        <i>18-19 años</i>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CLOUD_SECURITY-00F7FF?style=for-the-badge&labelColor=001F3F" /><br>
+        <i>Especialización</i>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/MOBILE_SEC-FF007F?style=for-the-badge&labelColor=001F3F" /><br>
+        <i>Desarrollo</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Footer futurista -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:001F3F&height=120&section=footer" />
+
+<!-- Contador de visitas -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=farsitooo&style=for-the-badge&color=00F7FF" alt="Visitas" />
 </div>
